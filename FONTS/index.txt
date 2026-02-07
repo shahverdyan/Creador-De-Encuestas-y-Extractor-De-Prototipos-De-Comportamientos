@@ -1,0 +1,6 @@
+FONTS
+
+Este directorio contiene el código del programa y todas las clases implementadas. Contiene los siguientes archivos:
+- subgrup-prop31.2: Carpeta que contiene todo el código del programa
+- PROP_subgrup31_2.tar: Fichero en formato tar del programa
+

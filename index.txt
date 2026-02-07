@@ -1,0 +1,8 @@
+Extractor de prototipos de comportamiento o perfiles
+
+Este directorio contiene todo el proyecto completo. Encontramos los siguientes archivos:
+- DOCS: Carpeta que contiene toda la documentacion del proyecto
+- FONTS: Carpeta que contiene el codigo del programa y todas las clases implementadas
+- EXE: Carpeta con los ejecutables del proyecto y los juegos de prueba completos
+- Descripcion_Equipo: Nombres, apellidos y correo electronico de los miembros del equipo
+
